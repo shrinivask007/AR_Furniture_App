@@ -11,12 +11,12 @@ AR Furniture is an Augmented Reality app  to solve the shopping problem of custo
 
 ## Screenshots
 <div align="center">
-<img src="./screenshots/home.png" alt="img" width="300"/>
-<img src="./screenshots/menu.png " alt="img" width="300"/>
-<img src="./screenshots/start.png" alt="img" width="300"/>
-<img src="./screenshots/placement.png" alt="img" width="200"/>
-<img src="./screenshots/about.png" alt="img" width="300"/>
-<img src="./screenshots/contact.png" alt="img" width="300"/>
+<img src="./screenshots/home.png" alt="img" width="250"/>
+<img src="./screenshots/menu.png " alt="img" width="250"/>
+<img src="./screenshots/start.png" alt="img" width="250"/>
+<img src="./screenshots/placement.png" alt="img" width="250"/>
+<img src="./screenshots/about.png" alt="img" width="250"/>
+<img src="./screenshots/contact.png" alt="img" width="250"/>
 </div>
 
 ## Features
